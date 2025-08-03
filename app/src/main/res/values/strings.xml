@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsDaily</string>
+    <string name="no_article_message">No article data available</string>
+    <string name="no_title">No Title</string>
+    <string name="no_description">No description</string>
+    <string name="no_content_available">No content available.</string>
+
+</resources>
